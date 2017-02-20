@@ -8,7 +8,7 @@ Team members:
 1. Ivan Ivan (QA)
 1. Olya Olya
 
-# Progect Name
+# Project Name
 
 Project description
 
